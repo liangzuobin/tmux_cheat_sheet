@@ -3,7 +3,7 @@ tmux cheat sheet and other settings.
 
 ### general 
 
-* C+q is the prefix key
+* C+q is the prefix key (default: C+b)
 * recommanded (in _.tmux.conf_):
 ```
 set -g default-command "reattach-to-user-namespace -l $SHELL"
