@@ -62,6 +62,12 @@ bind-key -t emacs-copy M-w copy-pipe "reattach-to-user-namespace pbcopy"
 2. `]` paste (with in tmux) 
 3. `c+space` / `shift + ctrl + 2` start selection 
 4. `m+w` copy
+5. press `esc` twice to exit `copy mode`
+
+### search in copy mode 
+
+1. `[` enter copy mode
+2. `c+s` search down / `c+r` search in the reverse direction
 
 ### others 
 
